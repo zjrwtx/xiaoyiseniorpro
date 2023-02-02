@@ -8,3 +8,4 @@
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+[![All Contributors](https://img.shields.io/github/all-contributors/zjrwtx/xiaoyiseniorpro?color=ee8449&style=flat-square)](#contributors)
