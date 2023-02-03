@@ -1,3 +1,8 @@
+<a name="YBStk"></a>
+
+## ![image.png](https://cdn.nlark.com/yuque/0/2023/png/22859856/1675404521952-d4bc795d-7b0a-4d51-94b7-0071d6e4f8d0.png#averageHue=%23fefefe&clientId=u4197ccc2-c49c-4&from=paste&height=942&id=u26e09b6e&name=image.png&originHeight=1413&originWidth=1722&originalType=binary&ratio=1&rotation=0&showTitle=false&size=593843&status=done&style=none&taskId=u80e7934e-09a5-4a18-be69-dcc74ed8b7d&title=&width=1148)
+
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/22859856/1675405682565-47289eb6-eb58-4c37-8064-952de8b9d841.png#averageHue=%23fefefe&clientId=u4197ccc2-c49c-4&from=paste&height=1743&id=uf1d90295&name=image.png&originHeight=2614&originWidth=1722&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1000330&status=done&style=none&taskId=uea9626c5-987b-4ec7-9aab-a6e44a7f109&title=&width=1148)
 <a name="emMeP"></a>
 
 ## 一、简介
@@ -48,7 +53,7 @@
 
 ### 7、AI应用精选（不断更新中）
 
-![image.png](https://cdn.nlark.com/yuque/0/2023/png/22859856/1675398693084-88c30650-f7c3-47c4-926c-a288f9059f02.png#averageHue=%23fefefe&clientId=u4197ccc2-c49c-4&from=paste&height=1372&id=u103c4e6d&name=image.png&originHeight=2058&originWidth=1722&originalType=binary&ratio=1&rotation=0&showTitle=false&size=747922&status=done&style=none&taskId=ud44a1d01-7d7b-4401-8135-bd8d7ced990&title=&width=1148)
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/22859856/1675405701980-b1c9b7ba-a581-4079-a1f4-d26ed69a2e52.png#averageHue=%23fefefe&clientId=u4197ccc2-c49c-4&from=paste&height=1743&id=u9c4353ee&name=image.png&originHeight=2614&originWidth=1722&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1000330&status=done&style=none&taskId=u7b8c6115-c46b-4405-b64c-5fdf4483ca3&title=&width=1148)
 <a name="e9sc8"></a>
 
 ### 8、万能工具箱（汇聚全网高质量工具，即用即走，告别广告！）
@@ -70,7 +75,7 @@
 
 ## 六、网站地址：
 
-[https://zjrwtx.github.io/xiaoyivuepress/](https://zjrwtx.github.io/xiaoyivuepress/)
+[https://xiaoyisenior.top/](https://xiaoyisenior.top/)
 <a name="SpUdN"></a>
 
 ## 七、github代码开源地址（代码说明与参与贡献说明README文档中）：
