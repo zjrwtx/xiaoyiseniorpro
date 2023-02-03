@@ -84,12 +84,12 @@
 
 ### 小译学长平台源代码：
 
-[https://github.com/zjrwtx/xiaoyiseniorpro](https://github.com/zjrwtx/xiaoyiseniorpro)<br />![image.png](https://cdn.nlark.com/yuque/0/2023/png/22859856/1675391056194-cc7d4db0-c63e-469f-9ba3-a095ccd33278.png#averageHue=%2313161c&clientId=u4197ccc2-c49c-4&from=paste&height=488&id=u107acea0&name=image.png&originHeight=732&originWidth=1891&originalType=binary&ratio=1&rotation=0&showTitle=false&size=125902&status=done&style=none&taskId=ud48f2155-c75b-4b5f-a946-84ca87673f6&title=&width=1260.6666666666667)
+[https://github.com/zjrwtx/xiaoyiseniorpro](https://github.com/zjrwtx/xiaoyiseniorpro)<br />![image.png](https://cdn.nlark.com/yuque/0/2023/png/22859856/1675407739204-acaf2284-0629-406d-9663-ba5cbef40b90.png#averageHue=%2314171d&clientId=u4197ccc2-c49c-4&from=paste&height=600&id=u785c9bbc&name=image.png&originHeight=900&originWidth=1883&originalType=binary&ratio=1&rotation=0&showTitle=false&size=201036&status=done&style=none&taskId=ud8a1d8c5-a834-4a0e-b7d3-3a6c482ee39&title=&width=1255.3333333333333)
 <a name="pTMDA"></a>
 
 ### 小译学长的对话、做题、绘画、原图生成多图代码库：
 
-[https://github.com/zjrwtx/xiaoiyisenior_huggingface](https://github.com/zjrwtx/xiaoiyisenior_huggingface)<br />![image.png](https://cdn.nlark.com/yuque/0/2023/png/22859856/1675390973974-cd3bc836-decf-4d8f-9010-8db83a125dd7.png#averageHue=%2312151b&clientId=u4197ccc2-c49c-4&from=paste&height=535&id=ubba0f102&name=image.png&originHeight=803&originWidth=1838&originalType=binary&ratio=1&rotation=0&showTitle=false&size=144530&status=done&style=none&taskId=udc059683-4cbf-46c5-b514-2ac129ea666&title=&width=1225.3333333333333)
+[https://github.com/zjrwtx/xiaoiyisenior_huggingface](https://github.com/zjrwtx/xiaoiyisenior_huggingface)<br />![image.png](https://cdn.nlark.com/yuque/0/2023/png/22859856/1675407869534-176e1285-eba2-4af0-84b1-eaf4c459737d.png#averageHue=%2313161c&clientId=u4197ccc2-c49c-4&from=paste&height=533&id=ua3879aff&name=image.png&originHeight=800&originWidth=1856&originalType=binary&ratio=1&rotation=0&showTitle=false&size=143185&status=done&style=none&taskId=u196a9a8d-5c3f-4e1a-a4cd-8482188d295&title=&width=1237.3333333333333)
 
 <a name="IWftg"></a>
 
